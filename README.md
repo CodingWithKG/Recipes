@@ -1,2 +1,3 @@
 # Recipes
-Recipe Project 
+Display of Recipes through HTML.
+
